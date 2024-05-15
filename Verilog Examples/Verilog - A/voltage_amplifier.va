@@ -1,0 +1,24 @@
+/*************************************************
+ * Author: Icaro Mendes
+ * Descricao: Módulo Verilog-A para o projeto de 
+ * amplificador de voltagem x2
+ * - Analogue voltage amplifier design with a 
+ * voltage gain of +2.0
+ ************************************************/
+
+´include "constants.h"
+´include "discipline.h"
+
+module PLANT_AHDL(sig_in, sig_out);
+
+    input  sig_in;
+    output sig_out;
+
+    electrical sig_in, sig_out;
+
+    analog begin 
+        V(sig_out) <+ 2 * V(sig_in);
+    end
+
+endmodule PLANT_AHDL
+// End of file
