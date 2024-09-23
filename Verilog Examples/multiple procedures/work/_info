@@ -1,0 +1,40 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/icaro.bezerra/Documents/Icaro/Digital System Design/Verilog Examples/bitwise operations
+T_opt
+!s110 1717603837
+VIV[WHE]`ljKH@5faD827>1
+04 10 4 work multi_proc fast 0
+=1-d09466de02d4-66608dfd-33c-3ef4
+o-quiet -auto_acc_if_foreign -work work +acc
+Z0 tCvgOpt 0
+n@_opt
+OL;O;10.6d;65
+vmulti_proc
+!s110 1717603822
+!i10b 1
+!s100 =GoackPRaiM^3z2icdkG91
+Ifn9V:;ngPlZ4>I2>^5<Lf3
+VDg1SIo80bB@j0V0VzS_@n1
+dC:/Users/icaro.bezerra/Documents/Icaro/Digital System Design/Verilog Examples/multiple procedures
+w1717518576
+8C:/Users/icaro.bezerra/Documents/Icaro/Digital System Design/Verilog Examples/multiple procedures/multiple_procedures.v
+FC:/Users/icaro.bezerra/Documents/Icaro/Digital System Design/Verilog Examples/multiple procedures/multiple_procedures.v
+L0 4
+OL;L;10.6d;65
+r1
+!s85 0
+31
+!s108 1717603822.000000
+!s107 C:/Users/icaro.bezerra/Documents/Icaro/Digital System Design/Verilog Examples/multiple procedures/multiple_procedures.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/icaro.bezerra/Documents/Icaro/Digital System Design/Verilog Examples/multiple procedures/multiple_procedures.v|
+!i113 0
+o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R0

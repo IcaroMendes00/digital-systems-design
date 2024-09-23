@@ -1,0 +1,8 @@
+{C:/Users/icaro.bezerra/Documents/Icaro/Digital System Design/Verilog Examples/shift operators/shift_operators.v} {1 {vlog -work work -vopt -stats=none {C:/Users/icaro.bezerra/Documents/Icaro/Digital System Design/Verilog Examples/shift operators/shift_operators.v}
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module shift_operators
+
+Top level modules:
+	shift_operators
+
+} {} {}}

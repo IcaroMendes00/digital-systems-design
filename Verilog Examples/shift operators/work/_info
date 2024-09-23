@@ -1,0 +1,40 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/icaro.bezerra/Documents/Icaro/Digital System Design/Verilog Examples/arithmetic operators
+T_opt
+!s110 1717694899
+VjI^@Dazc3XP2_C9O5=Udz1
+04 15 4 work shift_operators fast 0
+=1-d09466de02d4-6661f1b2-32a-40b4
+o-quiet -auto_acc_if_foreign -work work +acc
+Z0 tCvgOpt 0
+n@_opt
+OL;O;10.6d;65
+vshift_operators
+!s110 1717694882
+!i10b 1
+!s100 haRko7P?_kQ5CUIEd4kzH3
+IkZMX]1eA>kF9TQ?PPRjB?0
+VDg1SIo80bB@j0V0VzS_@n1
+dC:/Users/icaro.bezerra/Documents/Icaro/Digital System Design/Verilog Examples/shift operators
+w1717694849
+8C:/Users/icaro.bezerra/Documents/Icaro/Digital System Design/Verilog Examples/shift operators/shift_operators.v
+FC:/Users/icaro.bezerra/Documents/Icaro/Digital System Design/Verilog Examples/shift operators/shift_operators.v
+L0 3
+OL;L;10.6d;65
+r1
+!s85 0
+31
+!s108 1717694881.000000
+!s107 C:/Users/icaro.bezerra/Documents/Icaro/Digital System Design/Verilog Examples/shift operators/shift_operators.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/icaro.bezerra/Documents/Icaro/Digital System Design/Verilog Examples/shift operators/shift_operators.v|
+!i113 0
+o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R0
